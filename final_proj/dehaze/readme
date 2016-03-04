@@ -1,0 +1,5 @@
+运行： 
+$python dehaze.py
+Name of image: 22   (22.png) 
+Type: 0 for dehazing without guided filter, 1 for dehazing with guided filter: 0/1
+
